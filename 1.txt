@@ -2,3 +2,5 @@ ddddddddddddd
 
 insert two row info;
 insert dev info;
+insert dev2 info;
+insert dev3 info;
