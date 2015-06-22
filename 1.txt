@@ -7,3 +7,4 @@ insert dev3 info;
 insert dev4 info;
 insert dev5 info;
 insert dev6 info;
+insert dev8 info;
