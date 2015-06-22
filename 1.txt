@@ -1,3 +1,4 @@
 ddddddddddddd
 
 insert a row;
+insert dev info;
