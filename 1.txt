@@ -5,3 +5,5 @@ insert dev info;
 insert dev2 info;
 insert dev3 info;
 insert dev4 info;
+insert dev5 info;
+insert dev6 info;
