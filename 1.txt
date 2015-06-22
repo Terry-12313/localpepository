@@ -1,4 +1,4 @@
 ddddddddddddd
 
-insert a row;
+insert two row info;
 insert dev info;
