@@ -2,9 +2,11 @@ ddddddddddddd
 
 insert two row info;
 insert dev info;
+<<<<<<< Updated upstream
 insert dev2 info;
 insert dev3 info;
 insert dev4 info;
 insert dev5 info;
 insert dev6 info;
 insert dev7 info;
+insert dev9 info;
